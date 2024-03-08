@@ -1,0 +1,6 @@
+@TugasMandiri1_HostAddress = http://localhost:5092
+
+GET {{TugasMandiri1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
